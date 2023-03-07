@@ -1,0 +1,8 @@
+puc minas contagem  
+progamdor: vinicius nunes silva rios
+descrição :  calcular a  hipotenuza  de um triangulo retangulo
+entrada: b e c de um triangulo
+saida: imprimir tods os ldos da hpotenuza
+--+/
+usando sistema
+clss program;
